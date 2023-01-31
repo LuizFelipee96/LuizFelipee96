@@ -8,6 +8,8 @@
 
 ![Luiz Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFelipee96&show_icons=true&theme=dracula)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizFelipee96&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que eu utilizo nos meus projetos
 
 <div style="display: inline_block"><br/>
