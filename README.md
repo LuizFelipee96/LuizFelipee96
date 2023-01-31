@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o o Luiz Felipe✋
+### Olá! Eu sou o Luiz Felipe✋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizfelipeee96/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-77b02819b/)
