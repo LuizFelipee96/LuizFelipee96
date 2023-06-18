@@ -8,7 +8,10 @@
 
 ![Luiz Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFelipee96&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipee96)](https://github.com/LuizFelipee96/github-readme-stats)
+<div>
+<a href="https://github.com/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipee96&layout=compact&langs_count=7&theme=dracula"/>
+
 
 ### Tecnologias que eu utilizo nos meus projetos
 
